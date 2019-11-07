@@ -1,5 +1,5 @@
 ****
-Data
+数据
 ****
 
 Data in Animation Nodes is typed, that is, sockets have specific data types which can be identified by their color. For instance, a blue socket represents a *3D Vector* data type and a black socket represents an *Object* data type. If one attempts to connect two node sockets, unless they have the same data type or the origin type can be implicitly converted to the target type, Animation Nodes won't allow the connection.
